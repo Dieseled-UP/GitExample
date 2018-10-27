@@ -10,7 +10,7 @@ public class GitMaths {
 	
 	
 	public void sub() {
-int total = 2 - 3;
+		int total = 2 - 3;
 		
 		System.out.println("The total is: " + total);
 	}
